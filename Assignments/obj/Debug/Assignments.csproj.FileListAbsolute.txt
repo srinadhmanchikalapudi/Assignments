@@ -1,0 +1,7 @@
+C:\Users\Srina\source\repos\Assignments\Assignments\obj\Debug\Assignments.csproj.AssemblyReference.cache
+C:\Users\Srina\source\repos\Assignments\Assignments\obj\Debug\Assignments.csproj.CoreCompileInputs.cache
+C:\Users\Srina\source\repos\Assignments\Assignments\bin\Debug\Assignments.exe.config
+C:\Users\Srina\source\repos\Assignments\Assignments\bin\Debug\Assignments.exe
+C:\Users\Srina\source\repos\Assignments\Assignments\bin\Debug\Assignments.pdb
+C:\Users\Srina\source\repos\Assignments\Assignments\obj\Debug\Assignments.exe
+C:\Users\Srina\source\repos\Assignments\Assignments\obj\Debug\Assignments.pdb

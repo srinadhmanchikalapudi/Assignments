@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Srina\\source\\repos\\Assignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F2DF01-1C4F-46EB-B3C4-7845061350E3}|Assignments\\Assignments.csproj|c:\\users\\srina\\source\\repos\\assignments\\assignments\\assignment2v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F2DF01-1C4F-46EB-B3C4-7845061350E3}|Assignments\\Assignments.csproj|solutionrelative:assignments\\assignment2v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Assignments||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F2DF01-1C4F-46EB-B3C4-7845061350E3}|Assignments\\Assignments.csproj|C:\\Users\\Srina\\source\\repos\\Assignments\\assignments\\assignment3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F2DF01-1C4F-46EB-B3C4-7845061350E3}|Assignments\\Assignments.csproj|solutionrelative:assignments\\assignment3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F2DF01-1C4F-46EB-B3C4-7845061350E3}|Assignments\\Assignments.csproj|C:\\Users\\Srina\\source\\repos\\Assignments\\assignments\\assignment2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F2DF01-1C4F-46EB-B3C4-7845061350E3}|Assignments\\Assignments.csproj|solutionrelative:assignments\\assignment2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F2DF01-1C4F-46EB-B3C4-7845061350E3}|Assignments\\Assignments.csproj|C:\\Users\\Srina\\source\\repos\\Assignments\\assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F2DF01-1C4F-46EB-B3C4-7845061350E3}|Assignments\\Assignments.csproj|solutionrelative:assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assignment2v2.cs",
+              "DocumentMoniker": "C:\\Users\\Srina\\source\\repos\\Assignments\\Assignments\\Assignment2v2.cs",
+              "RelativeDocumentMoniker": "Assignments\\Assignment2v2.cs",
+              "ToolTip": "C:\\Users\\Srina\\source\\repos\\Assignments\\Assignments\\Assignment2v2.cs*",
+              "RelativeToolTip": "Assignments\\Assignment2v2.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwCMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:32:35.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignments",
+              "DocumentMoniker": "C:\\Users\\Srina\\source\\repos\\Assignments\\Assignments\\Assignments.csproj",
+              "RelativeDocumentMoniker": "Assignments\\Assignments.csproj",
+              "ToolTip": "C:\\Users\\Srina\\source\\repos\\Assignments\\Assignments\\Assignments.csproj*",
+              "RelativeToolTip": "Assignments\\Assignments.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T04:42:18.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment3.cs",
+              "DocumentMoniker": "C:\\Users\\Srina\\source\\repos\\Assignments\\Assignments\\Assignment3.cs",
+              "RelativeDocumentMoniker": "Assignments\\Assignment3.cs",
+              "ToolTip": "C:\\Users\\Srina\\source\\repos\\Assignments\\Assignments\\Assignment3.cs",
+              "RelativeToolTip": "Assignments\\Assignment3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T04:40:37.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Assignment2.cs",
+              "DocumentMoniker": "C:\\Users\\Srina\\source\\repos\\Assignments\\Assignments\\Assignment2.cs",
+              "RelativeDocumentMoniker": "Assignments\\Assignment2.cs",
+              "ToolTip": "C:\\Users\\Srina\\source\\repos\\Assignments\\Assignments\\Assignment2.cs",
+              "RelativeToolTip": "Assignments\\Assignment2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:23:54.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Srina\\source\\repos\\Assignments\\Assignments\\Program.cs",
+              "RelativeDocumentMoniker": "Assignments\\Program.cs",
+              "ToolTip": "C:\\Users\\Srina\\source\\repos\\Assignments\\Assignments\\Program.cs",
+              "RelativeToolTip": "Assignments\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:45:42.774Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
